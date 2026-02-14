@@ -79,16 +79,16 @@ python main.py
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+[https://drive.google.com/file/d/1nwBU0gdZp5az_PZOmclS2hmWLFOh8tHQ/view?usp=sharing]
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+*The vedio show how the code is executed to an app and how it monitors health*
 
 ---
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
+- [Neeraja S]: [Specific contributions - e.g., Frontend functioning]
+- [Sreelekshmi Venugopal]: [Specific contributions - e.g., Backend functioning, UI design, etc.]
 
 ---
 
@@ -99,3 +99,4 @@ This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) fi
 ---
 
 Made with ❤️ at TinkerHub
+
